@@ -1,6 +1,6 @@
 ---
 title: "Altimetry Explorer"
-excerpt: "Water level information for streams and reservoirs is hard to come by in developing regions. Satellite based altimetry data provides a means to monitor water level remotely. This web application allows for users to access water level information from a variety of satellite-based altimetry data without export knowledge.
+excerpt: "Water level information for streams and reservoirs is hard to come by in developing regions. Satellite based altimetry data provides a means to monitor water level remotely. This web application allows for users to access water level information from a variety of satellite-based altimetry data without expert knowledge.
 <br/><img style='width:500px;height:300px;' src='/images/altex_screenshot.png'>"
 collection: applications
 ---
