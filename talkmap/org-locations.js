@@ -1,22 +1,47 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "UNESCO Headquarters, Paris, France",
+    48.8491,
+    2.3062
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "AGU 2017, New Orleans LA, USA",
+    29.943191,
+    -90.063734
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "AGU 2016, San Francisco CA, USA",
+    37.783048,
+    -122.404281
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "AAG 2015, Chicago IL, USA",
+    41.887281,
+    -87.621778
+  ],
+  [
+    "ASPRS 2014, Louisville KY, USA",
+    38.1890118,
+    -85.956961
+  ],
+  [
+    "Google Earth Engine Summit, Dublin, Ireland",
+    53.340040,
+    -6.236289
+  ],
+  [
+    "Center Monitoring Ecologique, Dakar, Senegal",
+    14.691846,
+    -17.471521
+  ],
+  [
+    "RCMRD, Nairobi, Kenya",
+    -1.220272,
+    36.893930
+  ],
+  [
+    "ADPC, Bangkok, Thailand",
+    13.771038,
+    100.540980
   ]
 ];
