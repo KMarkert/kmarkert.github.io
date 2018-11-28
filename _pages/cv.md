@@ -80,14 +80,18 @@ Teaching
 
 Awards
 ======
-* 2018: NASA Group Achievement Award
-  * MSFC Hurricane Harvey Disaster Response Team
+* 2018: SERVIR Excellence Award
+  * For providing outstanding leadership, bringing the science and geospatial technology efforts together across the entire SERVIR network.
+* 2018: SERVIR Collaboration Award
+  * For successfully improving and expanding the Regional Land Cover Monitoring System (RLCMS) throughout the Lower Mekong and Hindu Kush-Himalaya regions, in a way that transforms access and analytical ability for land cover monitoring.
+* 2018: NASA Agency Group Achievement Award
+  * For outstanding technical support in disaster monitoring and response for Hurricane Harvey.
 * 2018: NASA MSFC Science and Technology Office Peer Award
-  * Pounding the Pavement - For extreme dedication putting more than 100% into his role of Science-Geospatial Information Technology (GIT) Integration role
-* 2016: NASA Group Achievement Award
-  * For outstanding contributions to the disaster response efforts for the 2015 Nepal earthquake through the acquisition, analysis, and distribution of satellite observations
+  * Pounding the Pavement - For extreme dedication putting more than 100% into his role of Science-Geospatial Information Technology (GIT) Integration role.
+* 2016: NASA MSFC Group Achievement Award
+  * For outstanding contributions to the disaster response efforts for the 2015 Nepal earthquake through the acquisition, analysis, and distribution of satellite observations.
 * 2015: UAH Earth System Science Graduate Researcher Award
-  * Development and implementation of the ISERV Cloud Forecasting System
+  * For the development and implementation of the ISERV Cloud Forecasting System.
 
 Service and leadership
 ======
