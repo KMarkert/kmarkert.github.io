@@ -43,5 +43,10 @@ var addressPoints = [
     "ADPC, Bangkok, Thailand",
     13.771038,
     100.540980
+  ],
+  [
+    "FAO, Rome, Italy",
+    41.883047,
+    12.488963
   ]
 ];
