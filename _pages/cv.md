@@ -98,8 +98,9 @@ Service and leadership
 * Journal Review
   * Publisher: MDPI, Journal: Remote Sensing
   * Publisher: MDPI, Journal: Hydrology
+  * Publisher: MDPI, Journal: Water
   * Publisher: SCIRP, Journal: Journal of Water Resources and Protection
 * User Working Group
   * Member of NASA Global Hydrology Resource Center UWG, NASA/MSFC (2014-2016)
 * Professional Memberships
-  * American Geophysical Union (2016- present)
+  * American Geophysical Union (2016 - present)
